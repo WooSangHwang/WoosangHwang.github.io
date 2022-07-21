@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         황우상
+  url:          https://woosanghwang.github.io
+  email:        hws120@daum.net
 
 # Build settings
 markdown:       kramdown
