@@ -1,0 +1,14 @@
+I"�<p>안녕하세요. 황우상입니다.</p>
+
+<h2 id="making-a-post-sticky">Making a post “sticky”</h2>
+
+<p>Add <code class="language-plaintext highlighter-rouge">sticky: true</code> to the frontmatter of your blog post.</p>
+
+<h3 id="exclude-sticky-post-from-paginated-posts">Exclude sticky post from paginated posts</h3>
+
+<p>By default, sticky posts are still included in the paginated posts. To exclude a sticky post from paginated posts, add <code class="language-plaintext highlighter-rouge">hidden: true</code> to the frontmatter of that blog post.</p>
+
+<h2 id="example">Example</h2>
+
+<p>See the <a href="https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md">“Introducing Tale” post</a>.</p>
+:ET

@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-21T09:25:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Usang.Hwang</title><subtitle>Minimal Jekyll theme for storytellers</subtitle><author><name>황우상</name><email>hws120@daum.net</email></author><entry><title type="html">Sticky Posts</title><link href="http://localhost:4000/2021-05-03/sticky-posts" rel="alternate" type="text/html" title="Sticky Posts" /><published>2021-05-03T00:00:00+09:00</published><updated>2021-05-03T00:00:00+09:00</updated><id>http://localhost:4000/2021-05-03/sticky-posts</id><content type="html" xml:base="http://localhost:4000/2021-05-03/sticky-posts"><![CDATA[<p>Sticky, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.<!--more--> There is no limit on the number of sticky posts you can have. Although do note that each page will show all your sticky posts + the paginated posts. So if you have 4 sticky posts and 5 posts per page, each page can display up to 9 posts.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-21T11:17:56+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Usang.Hwang</title><subtitle>Minimal Jekyll theme for storytellers</subtitle><author><name>황우상</name><email>hws120@daum.net</email></author><entry><title type="html">블로그를 시작하는 이유…</title><link href="http://localhost:4000/2022-07-21/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0" rel="alternate" type="text/html" title="블로그를 시작하는 이유…" /><published>2022-07-21T00:00:00+09:00</published><updated>2022-07-21T00:00:00+09:00</updated><id>http://localhost:4000/2022-07-21/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0</id><content type="html" xml:base="http://localhost:4000/2022-07-21/%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B0"><![CDATA[<p>안녕하세요. 황우상입니다. <br />
+저의 첫글은 블로그를 시작하는 이유에 대해 작성해보고 합니다.<!--more--></p>
+
+<p>현재 저는 SI회사에서 약 5년간 개발일을 하고 있습니다. <br />
+5년동안 열심히 일했고 회사에서 나름 일 잘한다고 인정도 받고 있습니다. <br />
+하지만 5년동안 개발에 대한 능력은 크게 성장하지 못했습니다. 매일 비슷한 업무를 진행했고, 이 회사에 쓰는 기술 또한 제가 아는 기술에 크게 벗어나지 않았기 때문입니다.<br />
+인정도 받고, 기술도 어느 정도 안다고 생각해서 그런지 이직에 대한 마음도 사실 크게 들지 않았습니다. <br />
+가끔 일처리가 미흡한 상사분을 만나면 답답한 마음에 이직할까? 라는 생각만 했었습니다. <br /></p>
+
+<p>어느 순간 이직에 대한 고민을 해도 이 회사보다 더 좋은 대우를 해줄까? 비슷하면 후회하지 않을까 생각이 먼저 들기 시작했습니다. 편안한 회사에 대한 생각이 이직에 대한 두려움과 부담감으로 작용하기 시작했습니다.<br />
+그렇게 현실에서 안주하면서 개발자로써 도태되고 있는 어느 날 회사 동료중 한분이 공부를 열심히 하면서 이직에 대한 열망을 저에게 보여준 적 있었습니다. <br />
+저도 회사 다니면서 중간중간에 공부를 열심히 하긴 했지만, 그 분의 열정은 제가 진짜로 놀고 있구나 라는 생각을 갖게 해줄 정도였습니다. <br /></p>
+
+<p>저도 그 동료분에게 자극을 받아서 그런걸까요? 아 나도 옆사람이 열심히 하니깐 나도 열심히 해야겠다..라는 단순한 생각으로 공부계획을 준비할려고 구글링을 하고 있었습니다.<br />
+그러다가 우연이 한 블로그를 들어가게 되었습니다. 블로그의 내용은 말하지 않겠습니다. <br />
+그 블로그의 내용을 보면서 뭔가 엔돌핀?이 돈다? 라는 느낌이 받았습니다. 읽다 보니 작성하신 분의 회사도 알게 되었고, 그 회사에 대해 찾아보면 볼수록 다니고 싶다는 생각이 들었습니다.<br />
+이직에 대한 부담감이 이직하고 싶다는 마음으로 열망을 변했습니다. 목표가 생겼습니다. 공부하고 싶은 마음이 생겼습니다..</p>
+
+<p>사실 다니고 싶다는 회사가 생긴것도 처음이긴 합니다..ㅎㅎ<br />
+하지만 그 회사를 다니기엔 제가 한없이 우물안 개구리였습니다…<br />
+그래서 성장하고자 마음을 먹었고, 블로그를 통해서 저의 성장을 공유하고자 합니다. <br />
+이 블로그는 저의 성장의 발판이 될것이며, 다른 누군가에게 도움이 되길 바라봅니다.<br />
+이 열정이 식지 않았으며 하는 마음입니다.<br /></p>
+
+<p>꼭 성공해보도록 하겠습니다.</p>
+
+<p>감사합니다.</p>]]></content><author><name>황우상</name></author><category term="시작" /><summary type="html"><![CDATA[안녕하세요. 황우상입니다. 저의 첫글은 블로그를 시작하는 이유에 대해 작성해보고 합니다.]]></summary></entry><entry><title type="html">테스트</title><link href="http://localhost:4000/2021-05-03/%ED%85%8C%EC%8A%A4%ED%8A%B8" rel="alternate" type="text/html" title="테스트" /><published>2021-05-03T00:00:00+09:00</published><updated>2021-05-03T00:00:00+09:00</updated><id>http://localhost:4000/2021-05-03/%ED%85%8C%EC%8A%A4%ED%8A%B8</id><content type="html" xml:base="http://localhost:4000/2021-05-03/%ED%85%8C%EC%8A%A4%ED%8A%B8"><![CDATA[<p>안녕, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.<!--more--> There is no limit on the number of sticky posts you can have. Although do note that each page will show all your sticky posts + the paginated posts. So if you have 4 sticky posts and 5 posts per page, each page can display up to 9 posts.</p>
 
 <h2 id="making-a-post-sticky">Making a post “sticky”</h2>
 
@@ -10,207 +36,4 @@
 
 <h2 id="example">Example</h2>
 
-<p>See the <a href="https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md">“Introducing Tale” post</a>.</p>]]></content><author><name>Chester</name></author><category term="Tutorial" /><summary type="html"><![CDATA[Sticky, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.]]></summary></entry><entry><title type="html">테스트</title><link href="http://localhost:4000/2021-05-03/%ED%85%8C%EC%8A%A4%ED%8A%B8" rel="alternate" type="text/html" title="테스트" /><published>2021-05-03T00:00:00+09:00</published><updated>2021-05-03T00:00:00+09:00</updated><id>http://localhost:4000/2021-05-03/%ED%85%8C%EC%8A%A4%ED%8A%B8</id><content type="html" xml:base="http://localhost:4000/2021-05-03/%ED%85%8C%EC%8A%A4%ED%8A%B8"><![CDATA[<p>안녕, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.<!--more--> There is no limit on the number of sticky posts you can have. Although do note that each page will show all your sticky posts + the paginated posts. So if you have 4 sticky posts and 5 posts per page, each page can display up to 9 posts.</p>
-
-<h2 id="making-a-post-sticky">Making a post “sticky”</h2>
-
-<p>Add <code class="language-plaintext highlighter-rouge">sticky: true</code> to the frontmatter of your blog post.</p>
-
-<h3 id="exclude-sticky-post-from-paginated-posts">Exclude sticky post from paginated posts</h3>
-
-<p>By default, sticky posts are still included in the paginated posts. To exclude a sticky post from paginated posts, add <code class="language-plaintext highlighter-rouge">hidden: true</code> to the frontmatter of that blog post.</p>
-
-<h2 id="example">Example</h2>
-
-<p>See the <a href="https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md">“Introducing Tale” post</a>.</p>]]></content><author><name>황우상</name></author><category term="Tutorial" /><summary type="html"><![CDATA[안녕, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.]]></summary></entry><entry><title type="html">Managing Excerpt</title><link href="http://localhost:4000/2021-04-30/managing-excerpt" rel="alternate" type="text/html" title="Managing Excerpt" /><published>2021-04-30T00:00:00+09:00</published><updated>2021-04-30T00:00:00+09:00</updated><id>http://localhost:4000/2021-04-30/managing-excerpt</id><content type="html" xml:base="http://localhost:4000/2021-04-30/managing-excerpt"><![CDATA[<p>You can customise the excerpt (the text displayed below each post on the homepage) using the <code class="language-plaintext highlighter-rouge">excerpt-separator</code>.<!--more--> Here’s how you can do so!</p>
-
-<h2 id="steps">Steps</h2>
-
-<ol>
-  <li>
-    <p>Add <code class="language-plaintext highlighter-rouge">excerpt_separator: &lt;!--more--&gt;</code> to the frontmatter of your blog post.</p>
-  </li>
-  <li>
-    <p>Insert this <code class="language-plaintext highlighter-rouge">&lt;!--more--&gt;</code> at where you would like the excerpt to cut off in your blog post.</p>
-  </li>
-</ol>
-
-<h3 id="note">Note</h3>
-
-<p>This follows <a href="https://jekyllrb.com/docs/posts/#post-excerpts">Jekyll’s recommended way of managing excerpts</a>.</p>
-
-<h2 id="example">Example</h2>
-
-<p>See <a href="https://github.com/chesterhow/tale/blob/master/_posts/2021-04-30-managing-excerpt.md">this post</a> or the <a href="https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md">“Introducing Tale” post</a>.</p>]]></content><author><name>Chester</name></author><category term="Tutorial" /><summary type="html"><![CDATA[You can customise the excerpt (the text displayed below each post on the homepage) using the excerpt-separator.]]></summary></entry><entry><title type="html">Introducing Tale</title><link href="http://localhost:4000/2017-03-29/introducing-tale" rel="alternate" type="text/html" title="Introducing Tale" /><published>2017-03-29T00:00:00+09:00</published><updated>2017-03-29T00:00:00+09:00</updated><id>http://localhost:4000/2017-03-29/introducing-tale</id><content type="html" xml:base="http://localhost:4000/2017-03-29/introducing-tale"><![CDATA[<p>Tale is a minimal <a href="https://jekyllrb.com/">Jekyll</a> theme curated for storytellers. It is designed and developed by <a href="https://github.com/chesterhow/">myself</a> for a friend who writes short stories.<!--more--></p>
-
-<h2 id="tale-features">Tale features</h2>
-<ul>
-  <li>Compatible with GitHub Pages</li>
-  <li>Responsive design (looks just as good on mobile)</li>
-  <li>Syntax highlighting, with the help of Pygments</li>
-  <li>Markdown and HTML text formatting</li>
-  <li>Pagination of posts</li>
-  <li>Sticky posts</li>
-  <li>Tags</li>
-  <li>Excerpt management</li>
-  <li>Disqus comments</li>
-</ul>
-
-<p>Head over to the <a href="/2017-03-16/example-content">Example Content</a> post for a showcase of Tale’s text formatting features.</p>
-
-<h2 id="browser-support">Browser Support</h2>
-<p>Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼</p>
-
-<h2 id="download-or-contribute">Download or Contribute</h2>
-<p>Tale is publicly hosted on GitHub, so go ahead and download or fork it at the <a href="https://github.com/chesterhow/tale">GitHub repository</a>. If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.</p>
-
-<p>Thanks for checking out Tale!</p>]]></content><author><name>Chester</name></author><category term="Tale" /><summary type="html"><![CDATA[Tale is a minimal Jekyll theme curated for storytellers. It is designed and developed by myself for a friend who writes short stories.]]></summary></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/2017-03-16/example-content" rel="alternate" type="text/html" title="Example Content" /><published>2017-03-16T00:00:00+09:00</published><updated>2017-03-16T00:00:00+09:00</updated><id>http://localhost:4000/2017-03-16/example-content</id><content type="html" xml:base="http://localhost:4000/2017-03-16/example-content"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.<!--more--> Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.</p>
-
-<h1 id="headers">Headers</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="gh"># H1</span>
-<span class="gu">## H2</span>
-<span class="gu">### H3</span>
-<span class="gu">#### H4</span>
-<span class="gu">##### H5</span>
-<span class="gu">###### H6</span></code></pre></figure>
-
-<h1 id="h1">H1</h1>
-<h2 id="h2">H2</h2>
-<h3 id="h3">H3</h3>
-<h4 id="h4">H4</h4>
-<h5 id="h5">H5</h5>
-<h6 id="h6">H6</h6>
-
-<h1 id="text-formatting">Text formatting</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="p">-</span> <span class="gs">**Bold**</span>
-<span class="p">-</span> _Italics_
-<span class="p">-</span> ~~Strikethrough~~
-<span class="p">-</span> <span class="nt">&lt;ins&gt;</span>Underline<span class="nt">&lt;/ins&gt;</span>
-<span class="p">-</span> <span class="nt">&lt;sup&gt;</span>Superscript<span class="nt">&lt;/sup&gt;</span>
-<span class="p">-</span> <span class="nt">&lt;sub&gt;</span>Subscript<span class="nt">&lt;/sub&gt;</span>
-<span class="p">-</span> Abbreviation: <span class="nt">&lt;abbr</span> <span class="na">title=</span><span class="s">"HyperText Markup Language"</span><span class="nt">&gt;</span>HTML<span class="nt">&lt;/abbr&gt;</span>
-<span class="p">-</span> Citation: <span class="nt">&lt;cite&gt;</span><span class="ni">&amp;mdash;</span> Chester How<span class="nt">&lt;/cite&gt;</span></code></pre></figure>
-
-<ul>
-  <li><strong>Bold</strong></li>
-  <li><em>Italics</em></li>
-  <li><del>Strikethrough</del></li>
-  <li><ins>Underline</ins></li>
-  <li><sup>Superscript</sup></li>
-  <li><sub>Subscript</sub></li>
-  <li>Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr></li>
-  <li>Citation: <cite>— Chester How</cite></li>
-</ul>
-
-<h1 id="lists">Lists</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="p">1.</span> Ordered list item 1
-<span class="p">2.</span> Ordered list item 2
-<span class="p">3.</span> Ordered list item 3
-<span class="p">
-*</span> Unordered list item 1
-<span class="p">*</span> Unordered list item 2
-<span class="p">*</span> Unordered list item 3</code></pre></figure>
-
-<ol>
-  <li>Ordered list item 1</li>
-  <li>Ordered list item 2</li>
-  <li>Ordered list item 3</li>
-</ol>
-
-<ul>
-  <li>Unordered list item 1</li>
-  <li>Unordered list item 2</li>
-  <li>Unordered list item 3</li>
-</ul>
-
-<h1 id="links">Links</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown">Check out tale on <span class="p">[</span><span class="nv">GitHub</span><span class="p">](</span><span class="sx">https://github.com/chesterhow/tale</span><span class="p">)</span>.</code></pre></figure>
-
-<p>Check out tale on <a href="https://github.com/chesterhow/tale">GitHub</a>.</p>
-
-<h1 id="images">Images</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="p">![</span><span class="nv">Placeholder image</span><span class="p">](</span><span class="sx">https://placehold.it/800x400</span> <span class="nn">"Placeholder image"</span><span class="p">)</span>
-
-<span class="p">![</span><span class="nv">Image with caption</span><span class="p">](</span><span class="sx">https://placehold.it/700x400</span> <span class="nn">"Image with caption"</span><span class="p">)</span>
-<span class="ge">_This is an image with a caption_</span></code></pre></figure>
-
-<p><img src="https://placehold.it/800x400" alt="Placeholder image" title="Placeholder image" /></p>
-
-<p><img src="https://placehold.it/700x400" alt="Image with caption" title="Image with caption" />
-<em>This is an image with a caption</em></p>
-
-<h1 id="code-and-syntax-highlighting">Code and Syntax Highlighting</h1>
-<p>Use back-ticks for <code class="language-plaintext highlighter-rouge">inline code</code>. Multi-line code snippets are supported too through Pygments.</p>
-
-<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// Sample javascript code</span>
-<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
-<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span></code></pre></figure>
-
-<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="c1"># Sample python code
-</span><span class="n">s</span> <span class="o">=</span> <span class="s">"Python syntax highlighting"</span>
-<span class="k">print</span> <span class="n">s</span></code></pre></figure>
-
-<p>Adding <code class="language-plaintext highlighter-rouge">linenos</code> to the highlight tag enables line numbers.</p>
-
-<figure class="highlight"><pre><code class="language-js" data-lang="js"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
-2
-3
-</pre></td><td class="code"><pre><span class="c1">// Sample javascript code</span>
-<span class="kd">var</span> <span class="nx">s</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">JavaScript syntax highlighting</span><span class="dl">"</span><span class="p">;</span>
-<span class="nx">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
-</pre></td></tr></tbody></table></code></pre></figure>
-
-<h1 id="blockquotes">Blockquotes</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown"><span class="gt">&gt; Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</span></code></pre></figure>
-
-<blockquote>
-  <p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-</blockquote>
-
-<h1 id="horizontal-rule--line-break">Horizontal Rule &amp; Line Break</h1>
-
-<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown">Use <span class="sb">`&lt;hr&gt;`</span> for horizontal rules
-
-<span class="nt">&lt;hr&gt;</span>
-
-and <span class="sb">`&lt;br&gt;`</span> for line breaks.
-
-<span class="nt">&lt;br&gt;</span></code></pre></figure>
-
-<p>Use <code class="language-plaintext highlighter-rouge">&lt;hr&gt;</code> for horizontal rules</p>
-
-<hr />
-
-<p>and <code class="language-plaintext highlighter-rouge">&lt;br&gt;</code> for line breaks.</p>
-
-<p><br /></p>
-
-<p><em>The end</em></p>]]></content><author><name>Chester</name></author><category term="Example" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2017-03-10/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-10T00:00:00+09:00</published><updated>2017-03-10T00:00:00+09:00</updated><id>http://localhost:4000/2017-03-10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2017-03-10/welcome-to-jekyll"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets: like these</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Jekyll</name></author><category term="Jekyll" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">The Case of the Missing Post</title><link href="http://localhost:4000/2017-03-07/the-case-of-the-missing-post" rel="alternate" type="text/html" title="The Case of the Missing Post" /><published>2017-03-07T00:00:00+09:00</published><updated>2017-03-07T00:00:00+09:00</updated><id>http://localhost:4000/2017-03-07/the-case-of-the-missing-post</id><content type="html" xml:base="http://localhost:4000/2017-03-07/the-case-of-the-missing-post"><![CDATA[<p>Kitty power! and sometimes switches in french and say “miaou” just because well why not man running from cops stops to pet cats, goes to jail, yet licks your face or drink water out of the faucet so jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water yet drink water out of the faucet. Pelt around the house and up and down stairs chasing phantoms.</p>
-
-<p>Sit in window and stare ooo, a bird! yum. Sit and stare. Sweet beast loves cheeseburgers. Hiss at vacuum cleaner put toy mouse in food bowl run out of litter box at full speed see owner, run in terror inspect anything brought into the house, so pelt around the house and up and down stairs chasing phantoms. Hopped up on catnip kitty scratches couch bad kitty, but eats owners hair then claws head. Lie on your belly and purr when you are asleep kitty power! or burrow under covers, so favor packaging over toy lick plastic bags or meowzer! yet unwrap toilet paper.</p>
-
-<p><a href="http://www.catipsum.com/">Cat Ipsum</a></p>]]></content><author><name>Chester</name></author><category term="Tale" /><summary type="html"><![CDATA[Kitty power! and sometimes switches in french and say “miaou” just because well why not man running from cops stops to pet cats, goes to jail, yet licks your face or drink water out of the faucet so jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water yet drink water out of the faucet. Pelt around the house and up and down stairs chasing phantoms.]]></summary></entry><entry><title type="html">The Mystery of the Filler Post</title><link href="http://localhost:4000/2017-03-06/the-mystery-of-the-filler-post" rel="alternate" type="text/html" title="The Mystery of the Filler Post" /><published>2017-03-06T00:00:00+09:00</published><updated>2017-03-06T00:00:00+09:00</updated><id>http://localhost:4000/2017-03-06/the-mystery-of-the-filler-post</id><content type="html" xml:base="http://localhost:4000/2017-03-06/the-mystery-of-the-filler-post"><![CDATA[<p>Hornswaggle measured fer yer chains chase run a shot across the bow Chain Shot flogging Pirate Round galleon rope’s end aft. Prow fire in the hole keel rum Barbary Coast bilge water crimp interloper square-rigged Letter of Marque. Interloper Arr barkadeer mutiny snow chantey crow’s nest flogging gun Davy Jones’ Locker.</p>
-
-<p>Bilge jolly boat barque topsail interloper chandler spanker scuttle Arr sloop. Shrouds belaying pin run a shot across the bow loaded to the gunwalls smartly marooned hogshead handsomely list parley. Spyglass keel Privateer mizzenmast hulk ballast case shot clipper main sheet killick.</p>
-
-<p>Careen hempen halter Letter of Marque pillage swing the lead take a caulk Sail ho jury mast walk the plank ho. Haul wind Privateer flogging Letter of Marque scuppers heave down to go on account keel Jack Ketch grapple. Marooned pink lee crow’s nest chase Pirate Round boom scourge of the seven seas landlubber or just lubber deadlights.</p>
-
-<p><a href="http://pirateipsum.me/">Pirate Ipsum</a></p>]]></content><author><name>Chester</name></author><category term="Tale" /><summary type="html"><![CDATA[Hornswaggle measured fer yer chains chase run a shot across the bow Chain Shot flogging Pirate Round galleon rope’s end aft. Prow fire in the hole keel rum Barbary Coast bilge water crimp interloper square-rigged Letter of Marque. Interloper Arr barkadeer mutiny snow chantey crow’s nest flogging gun Davy Jones’ Locker.]]></summary></entry><entry><title type="html">Pagination Post</title><link href="http://localhost:4000/2017-03-05/pagination-post" rel="alternate" type="text/html" title="Pagination Post" /><published>2017-03-05T00:00:00+09:00</published><updated>2017-03-05T00:00:00+09:00</updated><id>http://localhost:4000/2017-03-05/pagination-post</id><content type="html" xml:base="http://localhost:4000/2017-03-05/pagination-post"><![CDATA[<p>Here we see <strong>Tale’s</strong> pagination feature in action. It is set to 5 posts per page by default. Feel free to change this number in the <code class="language-plaintext highlighter-rouge">_config.yml</code> file!</p>]]></content><author><name>Chester</name></author><category term="Tale" /><summary type="html"><![CDATA[Here we see Tale’s pagination feature in action. It is set to 5 posts per page by default. Feel free to change this number in the _config.yml file!]]></summary></entry></feed>
+<p>See the <a href="https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md">“Introducing Tale” post</a>.</p>]]></content><author><name>황우상</name></author><category term="Tutorial" /><summary type="html"><![CDATA[안녕, or pinned, posts are featured on the top of every page. Tale provides some flexibility when it comes to this feature.]]></summary></entry></feed>

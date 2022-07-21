@@ -1,0 +1,18 @@
+I"�<p>안녕하세요. 황우상입니다. <br />
+저의 첫글은 블로그를 시작하는 이유에 대해 작성해보고 합니다.<br />
+현재 저는 SI회사에서 약 5년간 개발일을 하고 있습니다. 5년동안 열심히 일했고 회사에서 나름 일잘한다고 인정도 받고 있습니다. <br /> 
+하지만 5년동안 개발에 대한 능력은 크게 성장하지 못했습니다.<br />
+그것도 그럴것이 항상 회사에서 하는 업무가 CRUD를 크게 벚어나지 못했</p>
+
+<h2 id="making-a-post-sticky">Making a post “sticky”</h2>
+
+<p>Add <code class="language-plaintext highlighter-rouge">sticky: true</code> to the frontmatter of your blog post.</p>
+
+<h3 id="exclude-sticky-post-from-paginated-posts">Exclude sticky post from paginated posts</h3>
+
+<p>By default, sticky posts are still included in the paginated posts. To exclude a sticky post from paginated posts, add <code class="language-plaintext highlighter-rouge">hidden: true</code> to the frontmatter of that blog post.</p>
+
+<h2 id="example">Example</h2>
+
+<p>See the <a href="https://github.com/chesterhow/tale/blob/master/_posts/2017-03-29-introducing-tale.md">“Introducing Tale” post</a>.</p>
+:ET
